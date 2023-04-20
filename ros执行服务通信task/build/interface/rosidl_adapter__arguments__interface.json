@@ -1,0 +1,6 @@
+{
+  "package_name": "interface",
+  "non_idl_tuples": [
+    "/home/uki/task/src/interface:srv/AddTwoInts.srv"
+  ]
+}

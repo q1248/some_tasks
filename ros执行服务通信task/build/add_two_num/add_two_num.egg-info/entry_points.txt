@@ -1,0 +1,4 @@
+[console_scripts]
+service_add_clinet = add_two_num.add_client:main
+service_add_server = add_two_num.add_service:main
+
